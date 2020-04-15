@@ -26,13 +26,17 @@ A continuación se muestra un gif (un poco rápido) de la ejecución del program
 La secuencia que se aprecia es: lectura de teclado, impresión, cursores, posición actual del cursor, posición del cursor movida (en modo cursor grueso), modo video, lectura de parámetros en modo video, (cambio de colores de texto), impresión de "A" con colores cambiados, se espera a introducir una tecla y se imprime con esos colores, limpieza de pantalla.
 
 Aquí se ve la posición del cursor inicial:
+
 ![Cursor inicial](pos_cursor_inicial.png)
 
 Aquí cómo ha cambiado su posición en la pantalla:
+
 ![Cursor movido](pos_cursor_movido.png)
 
 Ahora estamos en modo gráfico:
+
 ![Modo grafico](modo_grafico.png)
 
 Se muestra letra con color de fondo y de texto cambiado:
+
 ![letra](letra.png)
