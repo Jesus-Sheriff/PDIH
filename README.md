@@ -25,7 +25,7 @@ Aquí se accede a la [Carpeta del repositorio con el trabajo](Trabajo_PDIH)
 
 - [Drivers en Windows 10 - Documento en Markdown](Trabajo_PDIH/Drivers%20en%20Windows%2010.md)
 
-- [Drivers en Windows 10 - Documento en PDF](Trabajo_PDIH/Drivers%20en%20Windows%2010.pdf)
+    - También disponible [en PDF](Trabajo_PDIH/Drivers%20en%20Windows%2010.pdf)
 
 - [Drivers en Windows 10 - Presentación](Trabajo_PDIH/Presentaci%C3%B3n%20-%20Drivers%20en%20Windows%2010.pdf)
 
