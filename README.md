@@ -1,4 +1,4 @@
-# PDIH
+# PDIH ![GitHub last commit](https://img.shields.io/github/last-commit/jesus-sheriff/pdih)
 Repositorio de PDIH (UGR)
 
 ## Enlaces directos a PRÁCTICAS
