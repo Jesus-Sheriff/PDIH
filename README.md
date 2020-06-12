@@ -7,6 +7,15 @@ Repositorio de PDIH (UGR)
 
 [Práctica 2](P2)  y su  [Documentación](P2/doc/documentacion_p2.md)
 
+Práctica 3 (enlaces a mis proyectos):
+
+- [Ejercicio 1 con 3 leds](https://www.tinkercad.com/things/e7sUFekJRzi-ej13leds)
+
+- [Ejercicio 2 con 3 leds y 1 switch](https://www.tinkercad.com/things/gO3OYZ2bMP6-ej23leds-1switch)
+
+- Para subir nota: 
+[Tira de led programada en modo Rainbow](https://www.tinkercad.com/things/hC9Sf3vfygb-rainbow-effect-neopixel-strip)
+
 [Práctica 4](P4-sonido)  y su  [Documentación](https://github.com/Jesus-Sheriff/PDIH/blob/master/P4-sonido/S6-varios-sonidos/p4.md)
 
 ## Enlaces a SEMINARIOS
